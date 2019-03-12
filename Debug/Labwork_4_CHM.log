@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\iluja\documents\visual studio 2015\projects\labwork_4_chm\labwork_4_chm\functions.h(197): warning C4715: 'calcInteg': not all control paths return a value
+c:\users\iluja\documents\visual studio 2015\projects\labwork_4_chm\labwork_4_chm\functions.h(334): warning C4715: 'calcIntegII': not all control paths return a value
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Labwork_4_CHM.vcxproj -> C:\Users\Iluja\documents\visual studio 2015\Projects\Labwork_4_CHM\Debug\Labwork_4_CHM.exe
+  Labwork_4_CHM.vcxproj -> C:\Users\Iluja\documents\visual studio 2015\Projects\Labwork_4_CHM\Debug\Labwork_4_CHM.pdb (Partial PDB)
